@@ -1,0 +1,6 @@
+@UseCloneInstadOfMapper_HostAddress = http://localhost:5006
+
+GET {{UseCloneInstadOfMapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
